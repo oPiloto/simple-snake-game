@@ -5,7 +5,7 @@ bool g_running = true;
 const int g_cell_size  = 30;
 const int g_cell_count = 25;
 
-const int g_game_fps = 60;
+const int g_game_fps   = 60;
 const int g_game_speed = 6;
 
 constexpr int g_screen_width  = g_cell_size * g_cell_count;
