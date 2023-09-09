@@ -36,7 +36,7 @@ int main() {
                 }
             }
         } else {
-            raylib::DrawText("GAME OVER", ((float)g_screen_width / 2) - (3 * 40), ((float)g_screen_height / 2) - 20, 40, g_dark_green);
+            DrawText("GAME OVER", ((float)g_screen_width / 2) - (3 * 40), ((float)g_screen_height / 2) - 20, 40, g_dark_green);
         }
 
         // Draw

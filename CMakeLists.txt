@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(raylib_game LANGUAGES C CXX)
+project(simple-snake-game LANGUAGES C CXX)
 
 message("Including Libraries.")
 include(cmake/raylib.cmake)
